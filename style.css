@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    
+  }
+  
+  #app {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 40px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 8px 15px;
+  }
+  
+  #login-page,
+  #booking-page {
+    margin-top: 40px;
+  }
+  
