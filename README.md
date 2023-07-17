@@ -58,6 +58,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 This project was inspired by the need for a simple and user-friendly car ticket booking system. Special thanks to the developers and contributors of the used libraries and frameworks.
 
+## Login 
+Username === 'admin' && password === 'password'
+
 ---
 
 Feel free to update and customize this README file based on your project's specific details and requirements. Provide clear instructions for setup, usage, and customization, and include any additional information that will help users understand and contribute to the project.
